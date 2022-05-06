@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaphaelPro/bdf8c532a31d21610ef078506c2a03a7/raw/043601e688af6fda9618f335b65c7a336128bc24/githubcard.svg"/>
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Raphal Alves</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaphaelPro&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Júnior Web Developer & Amante de chá ❤ 
 
