@@ -35,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=raphaelpro&show_icons=true&theme=vision-friendly-dark" alt="RaphaelPro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpro&layout=compact&theme=vision-friendly-dark" alt="RaphaelPro's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RaphaelPro&show_icons=true&theme=vision-friendly-dark" alt="RaphaelPro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPro&layout=compact&theme=vision-friendly-dark" alt="RaphaelPro's most languages"/>
 </p>
 
 <br><br>
